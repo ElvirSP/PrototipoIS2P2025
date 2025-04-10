@@ -1,0 +1,6 @@
+C:\Users\elvir\Desktop\Segundo examen IS\PrototipoIS2P2025\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.dll
+C:\Users\elvir\Desktop\Segundo examen IS\PrototipoIS2P2025\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.pdb
+C:\Users\elvir\Desktop\Segundo examen IS\PrototipoIS2P2025\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.AssemblyReference.cache
+C:\Users\elvir\Desktop\Segundo examen IS\PrototipoIS2P2025\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.CoreCompileInputs.cache
+C:\Users\elvir\Desktop\Segundo examen IS\PrototipoIS2P2025\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.dll
+C:\Users\elvir\Desktop\Segundo examen IS\PrototipoIS2P2025\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.pdb
